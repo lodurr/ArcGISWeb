@@ -1,9 +1,27 @@
 body{
-    background-color: peachpuff;
+    background-color: ivory ;
 }
-div{
+table {
+    background-color: darkgrey ;
+    border: 1px solid #000;
+    width: 40%;
+ }
+ th, td {
+    width: 25%;
     text-align: center;
-}
-p{
-    background-color:orange;
-}
+    vertical-align: top;
+    border: 1px solid #000;
+    padding: 0.1em;
+ }
+ caption {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0.5em;
+ }
+
+ .title th, .title td {
+    background: chocolate;
+ }
+ .even th, .even td {
+    background: #eee;
+ }
