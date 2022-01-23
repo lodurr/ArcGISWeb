@@ -1,0 +1,7 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.PrimerParrafo{
+    border: 2px dotted red;
+    font-style:italic;
+}
